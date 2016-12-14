@@ -1,0 +1,9 @@
+[06-Dec-2016 22:13:20 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'utility_pro_add_home_testimonials' not found or invalid function name in /home1/samjolle/public_html/muddyboots/wp-includes/class-wp-hook.php on line 298
+[06-Dec-2016 22:17:24 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'utility_pro_add_home_testimonials' not found or invalid function name in /home1/samjolle/public_html/muddyboots/wp-includes/class-wp-hook.php on line 298
+[14-Dec-2016 15:14:04 UTC] PHP Parse error:  syntax error, unexpected '<' in /home1/samjolle/public_html/muddyboots/wp-content/themes/muddy-boots-pro/functions.php on line 253
+[14-Dec-2016 15:14:08 UTC] PHP Parse error:  syntax error, unexpected '<' in /home1/samjolle/public_html/muddyboots/wp-content/themes/muddy-boots-pro/functions.php on line 253
+[14-Dec-2016 16:01:03 UTC] PHP Parse error:  syntax error, unexpected 'Y' (T_STRING) in /home1/samjolle/public_html/muddyboots/wp-content/themes/muddy-boots-pro/functions.php on line 183
+[14-Dec-2016 16:01:40 UTC] PHP Parse error:  syntax error, unexpected 'Y' (T_STRING) in /home1/samjolle/public_html/muddyboots/wp-content/themes/muddy-boots-pro/functions.php on line 183
+[14-Dec-2016 16:02:48 UTC] PHP Parse error:  syntax error, unexpected 'Y' (T_STRING) in /home1/samjolle/public_html/muddyboots/wp-content/themes/muddy-boots-pro/functions.php on line 183
+[14-Dec-2016 16:03:59 UTC] PHP Parse error:  syntax error, unexpected 'Y' (T_STRING) in /home1/samjolle/public_html/muddyboots/wp-content/themes/muddy-boots-pro/functions.php on line 183
+[14-Dec-2016 16:16:53 UTC] PHP Parse error:  syntax error, unexpected '-', expecting '(' in /home1/samjolle/public_html/muddyboots/wp-content/themes/muddy-boots-pro/functions.php on line 190

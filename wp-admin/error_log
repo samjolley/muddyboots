@@ -1,0 +1,2 @@
+[30-Nov-2016 16:22:14] WordPress database error Unknown column 'wp_' in 'field list' for query SELECT wp_
+[14-Dec-2016 16:06:28 UTC] PHP Parse error:  syntax error, unexpected 'Y' (T_STRING) in /home1/samjolle/public_html/muddyboots/wp-content/themes/muddy-boots-pro/functions.php on line 183
